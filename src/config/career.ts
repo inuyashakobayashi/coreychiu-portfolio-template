@@ -12,11 +12,11 @@ export type CareerItemType = {
   
   
   export const careerList: Array<CareerItemType> = [
-    {
-      company: 'Somewhere Financial Inc.',
-      title: 'Software Engineer',
-      logo: 'bank',
-      start: '2020',
-      end: 'Present'
-    },
+    // {
+    //   company: 'Somewhere Financial Inc.',
+    //   title: 'Software Engineer',
+    //   logo: 'bank',
+    //   start: '2020',
+    //   end: 'Present'
+    // },
   ]

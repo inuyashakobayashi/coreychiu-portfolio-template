@@ -91,11 +91,11 @@ export type ProjectItemType = {
   
   export const githubProjects: Array<ProjectItemType> = [
     {
-      name: 'Devtoolset',
-      description: 'Open-source & database-free developer tools navigator / 开源无数据库配置的开发者工具导航站',
-      link: { href: 'github.com/iAmCorey/devtoolset', label: 'Devtoolset' },
-      gitStars: 203,
-      gitForks: 67
+      name: 'Planning-poker',
+      description: 'eine Dos Gmbh Praktikum-Projekt',
+      link: { href: 'github.com/inuyashakobayashi/planning-poker', label: 'Tool für Schätzung von Userstory' },
+      gitStars: 1,
+      gitForks: 1,
     },
     {
       name: 'Corey Chiu Portfolio Template',
