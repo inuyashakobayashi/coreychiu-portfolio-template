@@ -36,36 +36,13 @@ export type SocialLinkType = {
 }
 
 export const socialLinks: Array<SocialLinkType> = [
-  {
-    name: 'X',
-    icon: 'x',
-    href: 'https://x.com/realcoreychiu'
-  },
-  {
-    name: 'Bsky',
-    icon: 'bsky',
-    href: 'https://bsky.app/profile/coreychiu.com'
-  },
-  {
-    name: 'Jike',
-    icon: 'pill',
-    href: 'https://okjk.co/P7c1zU'
-  },
+ 
   {
     name: 'Github',
     icon: 'github',
     href: 'https://github.com/inuyashakobayashi'
   },
-  {
-    name: 'Wechat',
-    icon: 'wechat',
-    href: 'https://mp.weixin.qq.com/s/DxnRgqNfgzXIhqj6w_x0dQ'
-  },
-  {
-    name: 'Ko-fi',
-    icon: 'coffee',
-    href: 'https://ko-fi.com/coreychiu'
-  }
+
 ]
 
 // https://simpleicons.org/
