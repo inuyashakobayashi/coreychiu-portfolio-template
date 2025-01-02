@@ -9,7 +9,7 @@ export * from './activity'
 // personal info
 export const name = 'Zijian Ying'
 export const headline = 'Software engineer, Studenten der Ostflia.'
-export const introduction = 'I’m , a software engineer based in Shenzhen, China. I like coding, and building interesting things'
+export const introduction = 'I’m , a software engineer from China. I like coding, and building interesting things'
 export const email = 'yingzijiany@gmail.com'
 export const githubUsername = 'inuyashakobayashi'
 
